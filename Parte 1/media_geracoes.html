@@ -1,0 +1,25 @@
+<meta charset="UTF-8">
+<script>
+
+function pulaLinha() {
+	
+	document.write("<br>");	
+
+}
+
+function mostra(frase) {
+	
+	document.write(frase);
+	pulaLinha();	
+
+}
+
+var descobrimentoBrasil = 1500
+var ano = 2022
+var idadeBrasil = ano-1500
+var mediaGeracoes = 28
+var geracoes = idadeBrasil/mediaGeracoes
+
+mostra(" Foram passadas " + Math.round(geracoes) + " gerações desde " + descobrimentoBrasil);
+
+</script>
