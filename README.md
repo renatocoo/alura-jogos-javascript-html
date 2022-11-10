@@ -1,6 +1,3 @@
-# Meus primeiros passos no JS e HTML
+# Meus primeiros jogos no JS e HTML
 
-Praticando no curso da Alura
-
-JavaScript no HTML
-Página de website completo com CSS e HTML
+Esse projeto foi construído com o auxilio do curso JavaScript, oferecido pela plataforma https://www.alura.com.br/
